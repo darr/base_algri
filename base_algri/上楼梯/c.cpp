@@ -9,6 +9,7 @@
 
 class GoUpstairs {
 public:
+    //run:12ms memory:736k
     int countWays(int n) {
         int a[100000];
         a[1] = 1;
